@@ -22,7 +22,7 @@ Automatizar o processo de cadastro de colaboradores utilizando Python, Selenium,
 - Python 3.x  
 - Selenium WebDriver  
 - Pandas  
-- Banco de dados SQL 
+- Banco de dados SQLite
 - Excel (.xlsx)  
 
 ## Estrutura do Projeto
